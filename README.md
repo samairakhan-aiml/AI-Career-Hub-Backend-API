@@ -18,16 +18,16 @@ AI Career Hub Backend is a REST API that provides career-related services such a
 
 # ✨ Features
 
-- 💼 Jobs API
-- 🎓 Internships API
-- 🤖 AI Tools API
-- 🗺️ Roadmaps API
-- 📂 Projects API
-- 📩 Contact API
-- 👤 User Registration
-- 🔐 User Login
-- ✅ Input Validation
-- 🌐 RESTful API
+- Jobs API
+- Internships API
+- AI Tools API
+- Roadmaps API
+- Projects API
+- Contact API
+- User Registration
+- User Login
+- Input Validation
+- RESTful API
 
 ---
 
@@ -100,57 +100,26 @@ http://localhost:5000
 
 # 📸 Project Screenshots
 
-## 🚀 Backend Running
-
-> *(Paste browser screenshot here)*
-
----
-
 ## 💼 Jobs API
-
-> *(Paste Thunder Client screenshot here)*
+<img width="1106" height="880" alt="image" src="https://github.com/user-attachments/assets/13554c39-aed7-4c34-945a-2513693ddd7f" />
 
 ---
 
 ## 🎓 Internships API
 
-> *(Paste Thunder Client screenshot here)*
-
----
-
-## 🤖 AI Tools API
-
-> *(Paste Thunder Client screenshot here)*
-
----
-
-## 🗺️ Roadmaps API
-
-> *(Paste Thunder Client screenshot here)*
-
----
-
-## 📂 Projects API
-
-> *(Paste Thunder Client screenshot here)*
-
----
-
-## 📩 Contact API
-
-> *(Paste Thunder Client screenshot here)*
+<img width="1100" height="879" alt="image" src="https://github.com/user-attachments/assets/ff54d2f3-cae4-4cc2-9c10-7533ab45f37f" />
 
 ---
 
 ## 👤 Register API
 
-> *(Paste Thunder Client screenshot here)*
+<img width="1106" height="812" alt="image" src="https://github.com/user-attachments/assets/e6ca2bc3-5d04-45d4-b424-4e4580f9176e" />
 
 ---
 
 ## 🔐 Login API
 
-> *(Paste Thunder Client screenshot here)*
+<img width="1101" height="802" alt="image" src="https://github.com/user-attachments/assets/3edfa01e-f5c8-4deb-96cc-4d5212e52586" />
 
 ---
 
