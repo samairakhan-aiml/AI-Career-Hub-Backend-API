@@ -53,7 +53,6 @@ Backend
 ├── server.js
 ├── package.json
 ├── package-lock.json
-├── .env
 ├── .gitignore
 └── README.md
 ```
